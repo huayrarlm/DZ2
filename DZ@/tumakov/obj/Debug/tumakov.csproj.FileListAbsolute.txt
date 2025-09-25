@@ -1,0 +1,8 @@
+C:\Users\ramzi\source\repos\DZ@\tumakov\bin\Debug\tumakov.exe.config
+C:\Users\ramzi\source\repos\DZ@\tumakov\bin\Debug\tumakov.exe
+C:\Users\ramzi\source\repos\DZ@\tumakov\bin\Debug\tumakov.pdb
+C:\Users\ramzi\source\repos\DZ@\tumakov\obj\Debug\tumakov.csproj.AssemblyReference.cache
+C:\Users\ramzi\source\repos\DZ@\tumakov\obj\Debug\tumakov.csproj.CoreCompileInputs.cache
+C:\Users\ramzi\source\repos\DZ@\tumakov\obj\Debug\tumakov.exe
+C:\Users\ramzi\source\repos\DZ@\tumakov\obj\Debug\tumakov.pdb
+C:\Users\ramzi\source\repos\DZ@\tumakov\obj\Debug\tumakov.exe.config

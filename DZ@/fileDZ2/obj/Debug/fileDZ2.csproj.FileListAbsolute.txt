@@ -1,0 +1,8 @@
+C:\Users\ramzi\source\repos\DZ@\fileDZ2\bin\Debug\fileDZ2.exe.config
+C:\Users\ramzi\source\repos\DZ@\fileDZ2\bin\Debug\fileDZ2.exe
+C:\Users\ramzi\source\repos\DZ@\fileDZ2\bin\Debug\fileDZ2.pdb
+C:\Users\ramzi\source\repos\DZ@\fileDZ2\obj\Debug\fileDZ2.csproj.AssemblyReference.cache
+C:\Users\ramzi\source\repos\DZ@\fileDZ2\obj\Debug\fileDZ2.csproj.CoreCompileInputs.cache
+C:\Users\ramzi\source\repos\DZ@\fileDZ2\obj\Debug\fileDZ2.exe
+C:\Users\ramzi\source\repos\DZ@\fileDZ2\obj\Debug\fileDZ2.pdb
+C:\Users\ramzi\source\repos\DZ@\fileDZ2\obj\Debug\fileDZ2.exe.config
